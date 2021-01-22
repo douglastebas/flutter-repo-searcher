@@ -1,5 +1,6 @@
-import 'package:app/screens/home.dart';
 import 'package:flutter/material.dart';
+
+import 'package:repo_searcher/screens/home.dart';
 
 void main() {
   runApp(MyApp());

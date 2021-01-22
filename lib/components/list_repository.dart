@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import 'package:app/screens/detail_image.dart';
-import 'package:app/components/cached_image.dart';
-import 'package:app/models/repository.dart';
+import 'package:repo_searcher/screens/detail_image.dart';
+import 'package:repo_searcher/components/cached_image.dart';
+import 'package:repo_searcher/models/repository.dart';
 
 class ListRepository extends StatelessWidget {
   const ListRepository({Key key, this.controller, this.repositories})

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:app/components/botao.dart';
+import 'package:repo_searcher/components/botao.dart';
 
 class FormRepository extends StatefulWidget {
   FormRepository(

@@ -1,4 +1,4 @@
-import 'package:app/components/cached_image.dart';
+import 'package:repo_searcher/components/cached_image.dart';
 import 'package:flutter/material.dart';
 
 class DetailImage extends StatelessWidget {

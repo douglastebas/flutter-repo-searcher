@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-import 'package:app/models/repository.dart';
-import 'package:app/components/form_repository.dart';
-import 'package:app/components/list_repository.dart';
+import 'package:repo_searcher/models/repository.dart';
+import 'package:repo_searcher/components/form_repository.dart';
+import 'package:repo_searcher/components/list_repository.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
